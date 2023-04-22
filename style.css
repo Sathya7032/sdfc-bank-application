@@ -1,0 +1,49 @@
+@charset "UTF-8";
+h1{
+    text-align: center;
+    color: brown;
+    block-size: auto;
+    background-color: orange;
+}
+h2{
+    text-align: center;
+    color: brown;
+}
+h3{
+    text-align: center;
+    color: skyblue; 
+    	
+}
+body{
+    background-color: white;
+}
+#nav{
+    border: 1px solid;
+    width: 75%;
+    border-color: black;
+    border-collapse: separate;
+    height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: orange;
+    color: antiquewhite;
+   
+}
+#ab{
+    width: 100%;
+    border: 0px;
+}
+
+table{
+    background-color: white;
+    align-content: center;
+    border: 1px solid;
+    border-collapse: collapse;
+    width:50%;
+    
+}
+.button{
+    background-color: orange;
+    color: aliceblue;
+
+}
